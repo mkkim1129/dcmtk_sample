@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "DICOMModality", "DICOMModality\DICOMModality.vcxproj", "{1B7963C1-A002-44E1-BF0B-9F5CE5371D71}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1B7963C1-A002-44E1-BF0B-9F5CE5371D71}.Debug|x64.ActiveCfg = Debug|x64
+		{1B7963C1-A002-44E1-BF0B-9F5CE5371D71}.Debug|x64.Build.0 = Debug|x64
+		{1B7963C1-A002-44E1-BF0B-9F5CE5371D71}.Release|x64.ActiveCfg = Release|x64
+		{1B7963C1-A002-44E1-BF0B-9F5CE5371D71}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
